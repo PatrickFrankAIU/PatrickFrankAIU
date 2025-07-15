@@ -11,8 +11,8 @@ I teach, develop, and maintain programming courses, and I study various topics r
 - **Mentorship**: Guiding the next generation of developers through their coding journey
 
 ## 🛠️ Technologies I Work With
-**Languages**: JavaScript, C#, Java, Python
-**Frameworks**: React, Node, Express, jQuery, SASS
+**Languages**: JavaScript, C#, Java, Python  
+**Frameworks**: React, Node, Express, jQuery, SASS  
 **Tools**: GitHub, Visual Studio Code
 
 ## 📚 Current Focus
