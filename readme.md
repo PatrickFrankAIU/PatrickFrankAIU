@@ -1,9 +1,9 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Patrick Frank 👋
 
 ## 🎓 Educator & Developer
 **Instructor and Course Developer** at DigitalCrafts and American InterContinental University
 
-I'm passionate about bridging the gap between industry needs and educational outcomes, developing curriculum that prepares students for real-world software development challenges.
+I teach, develop, and maintain programming courses, and I study various topics related to programming education. 
 
 ## 🚀 What I Do
 - **Curriculum Development**: Design and build comprehensive coding bootcamp and university-level courses
