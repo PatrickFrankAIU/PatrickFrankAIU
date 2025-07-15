@@ -36,8 +36,6 @@ Hands-on learning with real-world projects that build both technical skills and 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFrankAIU&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/PatrickFrankAIU?theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
