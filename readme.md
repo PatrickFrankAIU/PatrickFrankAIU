@@ -1,4 +1,9 @@
-# Hi, I'm Patrick## 📊 GitHub Stats
+# Hi, I'm Pa## 🛠️ Technologies I Work With
+**Languages**: JavaScript, C#, Java, Python
+**Frameworks**: React, Node, Express, jQuery, SASS
+**Tools**: GitHub, Visual Studio Code
+
+## 📊 GitHub Stats
 <div align="center">
   
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickFrankAIU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
