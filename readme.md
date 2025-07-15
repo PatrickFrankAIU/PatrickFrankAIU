@@ -1,5 +1,15 @@
-# Hi, I'm Patrick Frank 👋
+# Hi, I'm Patrick## 📊 GitHub Stats
+<div align="center">
+  
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickFrankAIU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFrankAIU&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=PatrickFrankAIU&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 📚 Current Focus
 ## 🎓 Educator & Developer
 **Instructor and Course Developer** at DigitalCrafts and American InterContinental University
 
