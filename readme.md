@@ -16,7 +16,7 @@ I teach, develop, and maintain programming courses, and I study various topics r
 **Tools**: GitHub, Visual Studio Code
 
 ## 📚 Current Focus
-- Exploring the new AI tools, especially Claude Desktop, ChatGPT 4 & o3, and MS/GitHub Copilot
+- Exploring AI coding tools, especially Claude Desktop, ChatGPT 4 & o3, and MS/GitHub Copilot
 - Currently looking at: 
     - Improved live coding demonstrations (more engaging and detailed due to AI)
     - Use of AI during live coding demonstrations
