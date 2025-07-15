@@ -34,7 +34,7 @@ Hands-on learning with real-world projects that build both technical skills and 
   
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickFrankAIU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFrankAIU&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFrankAIU&layout=compact&theme=tokyonight&hide_border=true&hide=c%23,c%2B%2B)
 
 </div>
 
