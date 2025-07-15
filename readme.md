@@ -32,9 +32,9 @@ Hands-on learning with real-world projects that build both technical skills and 
 ## 📊 GitHub Stats
 <div align="center">
   
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickFrankAIU&show_icons=true&theme=donut&hide_border=true&count_private=true)
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickFrankAIU&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFrankAIU&layout=compact&theme=donut&hide_border=true&hide=c%23,c%2B%2B)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFrankAIU&layout=compact&theme=github_dark&hide_border=true&hide=c%23,c%2B%2B)
 
 </div>
 
