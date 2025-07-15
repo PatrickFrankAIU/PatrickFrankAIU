@@ -15,7 +15,18 @@ I teach, develop, and maintain programming courses, and I study various topics r
 **Frameworks**: React, Node, Express, jQuery, SASS
 **Tools**: GitHub, Visual Studio Code
 
-## 📚 Current Focus
+## � GitHub Stats
+<div align="center">
+  
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickFrankAIU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFrankAIU&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=PatrickFrankAIU&theme=tokyonight&hide_border=true)
+
+</div>
+
+## �📚 Current Focus
 - Exploring the new AI tools, especially Claude Desktop, ChatGPT 4 & o3, and MS/GitHub Copilot
 - Currently looking at: 
     - Use of AI during live coding demonstrations
