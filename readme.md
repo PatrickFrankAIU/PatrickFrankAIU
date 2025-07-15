@@ -11,21 +11,20 @@ I teach, develop, and maintain programming courses, and I study various topics r
 - **Mentorship**: Guiding the next generation of developers through their coding journey
 
 ## 🛠️ Technologies I Work With
-**Languages**: [Add your primary languages - JavaScript, Python, etc.]
-**Frameworks**: [Add frameworks you teach/use - React, Node.js, etc.]
-**Tools**: Git, VS Code, [other development tools]
+**Languages**: JavaScript, C#, Java, Python
+**Frameworks**: React, Node, Express, jQuery, SASS
+**Tools**: GitHub, Visual Studio Code
 
 ## 📚 Current Focus
-- [What you're currently working on - new courses, technologies, etc.]
+- Exploring the new AI tools, especially Claude Desktop, ChatGPT 4 & o3, and MS/GitHub Copilot
 - [Any specific areas of development you're exploring]
 
 ## 🌟 Teaching Philosophy
 Hands-on learning with real-world projects that build both technical skills and professional confidence.
 
 ## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn]
-- Email: [Your professional email]
-- Portfolio: [If you have one]
+- LinkedIn: [\[Your LinkedIn\]](https://www.linkedin.com/in/patfrank/)
+- Email: [pfrank@aiufl.edu](pfrank@aiufl.edu)
 
 ---
 *Always learning, always teaching* 🎯
