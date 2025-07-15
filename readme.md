@@ -17,7 +17,9 @@ I teach, develop, and maintain programming courses, and I study various topics r
 
 ## 📚 Current Focus
 - Exploring the new AI tools, especially Claude Desktop, ChatGPT 4 & o3, and MS/GitHub Copilot
-- [Any specific areas of development you're exploring]
+- Currently looking at: 
+    - Use of AI during live coding demonstrations
+    - Student-facing guided AI content 
 
 ## 🌟 Teaching Philosophy
 Hands-on learning with real-world projects that build both technical skills and professional confidence.
