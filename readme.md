@@ -25,8 +25,8 @@ I teach, develop, and maintain programming courses, and I study various topics r
 Hands-on learning with real-world projects that build both technical skills and professional confidence.
 
 ## 📫 Let's Connect
-- LinkedIn: [\[My LinkedIn\]](https://www.linkedin.com/in/patfrank/)
-- Email: [pfrank@aiufl.edu](pfrank@aiufl.edu)
+- LinkedIn: https://www.linkedin.com/in/patfrank/
+- Email: pfrank@aiufl.edu
 
 ---
 *Always learning, always teaching* 🎯
