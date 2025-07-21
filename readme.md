@@ -11,8 +11,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=900&height=100&lines=Hi+there%2C+I'm+Patrick+Frank!+%F0%9F%91%8B;Code+Educator+%26+Curriculum+Architect+%F0%9F%8E%93;Teaching+the+Next+Gen+of+Developers+%F0%9F%9A%80;Always+Learning%2C+Always+Teaching+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
-![Weather](https://wttr.in/Miami.png?0&background=282c34)
-
 </div>
 
 ---
