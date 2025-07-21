@@ -55,7 +55,7 @@
 
 ## 📚 Current Focus & AI Adventures 🤖
 - 🔍 Exploring AI coding tools, especially Claude Desktop, ChatGPT 4 & o3, and MS/GitHub Copilot
-- 🎯 Currently experimenting with: 
+- 🎯 Actively studying: 
     - 🎪 Improved live coding demonstrations (more engaging and detailed due to AI)
     - 🎭 Use of AI during live coding demonstrations
     - 🎓 Student-facing guided AI content 
