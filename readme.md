@@ -60,13 +60,6 @@
     - 🎭 Use of AI during live coding demonstrations
     - 🎓 Student-facing guided AI content 
 
-## 😄 Random Developer Joke Generator
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%23944bcc&aColor=%23bbdde5)
-
-</div>
-
 ## 🌟 Teaching Philosophy 
 > 🎯 Hands-on learning with real-world projects that build both technical skills and professional confidence.  
 > 💡 *"The best way to learn to code is to code!"* - Me, probably every day in class 😄
@@ -102,6 +95,13 @@
 *I've probably said "Let me share my screen" more times than any human should! 🖥️*
 
 **Current Status:** 🍕 Probably explaining why pizza is a valid food group for developers
+
+## 😄 Random Developer Joke Generator
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%23944bcc&aColor=%23bbdde5)
+
+</div>
 
 </div>
 
