@@ -24,10 +24,10 @@
 ☕ Fueled by coffee and curiosity ☕ 
 
 ## 🚀 What I Do
-🎯 **Curriculum Development**: Design and build comprehensive coding bootcamp and university-level courses
+🎯 **Curriculum Development**: Design and build comprehensive coding bootcamp and university-level courses  
 👨‍🏫 **Instruction**: Teaching full-stack development, focusing on practical, industry-relevant skills  
-🌱 **Mentorship**: Guiding the next generation of developers through their coding journey
-🤖 **AI Integration**: Bringing cutting-edge AI tools into the classroom experience
+🌱 **Mentorship**: Guiding the next generation of developers through their coding journey  
+🤖 **AI Integration**: Bringing cutting-edge AI tools into the classroom experience  
 
 ## 🛠️ My Tech Arsenal
 
