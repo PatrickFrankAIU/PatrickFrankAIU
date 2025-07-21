@@ -15,7 +15,7 @@
 
 ---
 
-## 🎓 Who Am I? 
+## 🎓 Who I Am  
 🏫 **Instructor & Course Developer** at DigitalCrafts and American InterContinental University  
 📚 I teach, develop, and maintain programming courses  
 🔬 I study various topics related to programming education  
